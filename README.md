@@ -1,6 +1,12 @@
 # MetacraftersPoly-3
+will create a circuit using the circom programming language that implements the following logical gate:
 
-This is a circuit template for use with Circom that checks whether `c` is the multiplication of `a` and `b`. 
+Logic Gate
+AND
+OR
+NOT
+
+Your goal is to prove you know the inputs A (0) & B (1) that yield a 0 output.
 
 ## Inputs
 - `a`: A signal input of unspecified type. 
